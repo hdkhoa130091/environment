@@ -3,11 +3,11 @@
 An integrated IoT solution designed to monitor indoor air quality and environmental conditions in real-time. The system acquires data from multiple sensors (**DHT22**, **MQ135**, **GP2Y1010AU0F**), synchronizes it with **Firebase**, and provides a live dashboard on a mobile application.
 
 ---
-![1](https://github.com/user-attachments/assets/d123f17b-fa4a-4643-a021-3efb2f48db5e)
-<img width="320" height="407" alt="2" src="https://github.com/user-attachments/assets/95d5ae49-34ff-4b1d-a523-39910200faaf" />
+<img width="540" height="687" alt="2" src="https://github.com/user-attachments/assets/2413bbe3-cf2a-4388-a3d5-d10e56a8ddbc" />
 
-<img width="844" height="1881" alt="image" src="https://github.com/user-attachments/assets/2194fd94-c9ff-4779-8de0-b3447c74e50a" />
+<img width="540" height="591" alt="3" src="https://github.com/user-attachments/assets/67a12aae-ece8-4c32-873d-b1a01c884749" />
 
+![1](https://github.com/user-attachments/assets/0042a5d3-61be-469a-8f7a-67fb6c2148e7)
 
 ---
 
