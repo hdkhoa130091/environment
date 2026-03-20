@@ -4,7 +4,8 @@ An integrated IoT solution designed to monitor indoor air quality and environmen
 
 ---
 ![1](https://github.com/user-attachments/assets/d123f17b-fa4a-4643-a021-3efb2f48db5e)
-<img width="660" height="415" alt="image" src="https://github.com/user-attachments/assets/7efb96dd-a2ea-426e-8869-33809df8f1a6" />
+<img width="320" height="407" alt="2" src="https://github.com/user-attachments/assets/95d5ae49-34ff-4b1d-a523-39910200faaf" />
+
 <img width="844" height="1881" alt="image" src="https://github.com/user-attachments/assets/2194fd94-c9ff-4779-8de0-b3447c74e50a" />
 
 
