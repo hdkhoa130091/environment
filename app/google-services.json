@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "676556867432",
+    "firebase_url": "https://environmental-monitoring-452b4-default-rtdb.firebaseio.com",
+    "project_id": "environmental-monitoring-452b4",
+    "storage_bucket": "environmental-monitoring-452b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676556867432:android:fed7cd06643ca64b0078dd",
+        "android_client_info": {
+          "package_name": "com.example.environmental_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuq0hT-jEZ5R5gVLtWbp8robHld3w980"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

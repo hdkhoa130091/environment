@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar_register"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_register"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:background="@color/royal_blue"
+            android:elevation="4dp"
+            app:navigationIcon="@drawable/ic_back"
+            app:title="@string/txt_register"
+            app:titleTextColor="@color/white" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <TextView
+        android:id="@+id/txt_register1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/appbar_register"
+        android:layout_marginTop="70dp"
+        android:padding="5dp"
+        android:text="@string/txt_register"
+        android:textAlignment="center"
+        android:textColor="@color/royal_blue"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/account_register"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/txt_register1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/custom_edittext"
+        android:drawableStart="@drawable/ic_person"
+        android:hint="@string/txt_account_1"
+        android:padding="10dp"
+        android:inputType="textEmailAddress"
+        android:autofillHints="emailAddress" />
+
+    <EditText
+        android:id="@+id/password_register"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/account_register"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/custom_edittext"
+        android:drawableStart="@drawable/ic_password1"
+        android:hint="@string/txt_password1"
+        android:autofillHints="password"
+        android:inputType="numberPassword"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/password_1_register"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/password_register"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/custom_edittext"
+        android:drawableStart="@drawable/ic_password1"
+        android:hint="@string/txt_password_1"
+        android:autofillHints="password"
+        android:inputType="numberPassword"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/bt_register"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_below="@id/password_1_register"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="120dp"
+        android:backgroundTint="@color/royal_blue"
+        android:padding="10dp"
+        android:text="@string/txt_register"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

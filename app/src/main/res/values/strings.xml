@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Environmental_Monitoring</string>
+    <string name="app_title">GIÁM SÁT MÔI TRƯỜNG</string>
+    <string name="txt_login">Đăng nhập</string>
+    <string name="txt_account">Tài khoản</string>
+    <string name="txt_password">Mật khẩu</string>
+    <string name="txt_register">Đăng ký</string>
+    <string name="txt_space">" | "</string>
+    <string name="txt_forgot">Quên mật khẩu</string>
+    <string name="txt_password_1">Nhập lại mật khẩu</string>
+    <string name="txt_account_1">Tài khoản\n</string>
+    <string name="txt_password1">Mật khẩu</string>
+</resources>
